@@ -69,6 +69,8 @@ This repository contains questions related to Javascript
 | 8.  |   How many ways we can check the type of value is an array or not in js |
 | 9.  |   How do you find the largest and smallest number in an unsorted integer array? eg:[2,11,4,7,8,3,1,9] |
 | 10.  |   How do you reverse an array in place in JavaScript without using pre defined methods? eg:[2,11,4,7,8,3,1,9] |
+| 11.  |   What is the typeof {} and typeof [] in js.|
+| 12.  |   What is the typeof null and typeof undefined in js.|
 ---
 
 Good luck with your interview 😊
