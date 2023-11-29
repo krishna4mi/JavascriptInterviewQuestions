@@ -75,3 +75,7 @@ This repository contains questions related to Javascript
 
 Good luck with your interview 😊
 
+
+```bash
+If you have any other questions,  you can share questions [here](https://in.linkedin.com/in/krishna-teja-medam-3320a6135). I can add them in our collection.
+```
